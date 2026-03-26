@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "publications"
+title: "research"
 permalink: /publications/
 ---
 
-# Publications
+# Research
 
 ## Published
 
